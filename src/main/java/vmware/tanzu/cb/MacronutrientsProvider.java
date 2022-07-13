@@ -10,7 +10,7 @@ class MacronutrientsProvider {
 
     float protein() {
         try {
-            TimeUnit.MILLISECONDS.sleep(340);
+            TimeUnit.MILLISECONDS.sleep(300);
         } catch (InterruptedException e) {
             //for the sake of the demo :)
         }
